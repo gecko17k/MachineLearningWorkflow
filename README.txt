@@ -21,25 +21,6 @@ You have now created the environment. To view the jupyter notebook do the follow
 >> jupyter notebook
 
 4. This launches in your browser, now naviate to the folder and select the .ipynb file.
----------------------------------------------------------------------------------------------
-
-For .py scripts:
-1. Go to anaconda command prompt and activate mcg environment
->> activate mcg
-
-2. Run Spyder IDE (or change this to PyCharm or whichever IDE you prefer/have installed.)
->> spyder
-
-3. Open the .py (or drag and drop into the Spyder IDE)
-
-Done
------------------------------------------------------------------------------------------
-More 
-Install a library like this if you find that a library is not recognised.
->> pip install biosppy
-
-list conda environments
->> conda env list
 
 See this too:
 https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
